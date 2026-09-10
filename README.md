@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joon</h1>
 
-### Hi, I am currently a [student-athlete](https://www.swimcloud.com/swimmer/549377/) at Columbia University studying Computer Science.
+### I'm an M.S. Computer Science student at Columbia University interested in software engineering, data science, and AI. Former [NCAA Division I swimmer](https://www.swimcloud.com/swimmer/549377/) and team captain at Columbia.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joon0110&label=Profile%20views&color=0e75b6&style=flat" alt="joon0110" /> </p>
 
